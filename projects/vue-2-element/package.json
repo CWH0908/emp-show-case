@@ -6,8 +6,8 @@
   "private": true,
   "type": "module",
   "devDependencies": {
-    "@empjs/cli": "^3.0.0-beta.28",
-    "@empjs/plugin-vue2": "^3.0.0-beta.28"
+    "@empjs/cli": "latest",
+    "@empjs/plugin-vue2": "latest"
   },
   "dependencies": {
     "element-ui": "^2.15.6",
