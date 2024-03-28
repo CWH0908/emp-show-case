@@ -6,8 +6,8 @@
   "private": true,
   "type": "module",
   "devDependencies": {
-    "@empjs/cli": "workspace:*",
-    "@empjs/plugin-vue2": "workspace:^*"
+    "@empjs/cli": "^3.0.0-beta.28",
+    "@empjs/plugin-vue2": "^3.0.0-beta.28"
   },
   "dependencies": {
     "vue": "^2.7.14",
